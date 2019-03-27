@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Last Idol"</Description>
+      <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">=Ashina Outskirts=
+1102950: Dilapidated Temple
+1102951: Outskirts Wall - Gate Path
+1102952: Outskirts Wall - Stairway
+1102953: Underbridge Valley
+1102954: Ashina Castle Gate Fortress
+1102955: Ashina Castle Gate
+1102957: Flames of Hatred
+
+=Ashina Castle=
+1112950: Ashina Castle
+1112951: Upper Tower - Antechamber
+1112952: Castle Tower Lookout
+1112953: Upper Tower - Kuro's Room
+1112954: Great Serpent Shrine
+1112955: Abandoned Dungeon Entrance
+1112956: Old Grave
+1112957: Upper Tower - Ashina Dojo
+1122951: Ashina Reservoir
+1122950: Near Secret Passage
+
+=Abandoned Dungeon=
+1302950: Underground Waterway
+1302951: Bottomless Hole
+
+=Senpou Temple=
+2002950: Senpou Temple, Mt. Kongo
+2002951: Shugendo
+2002952: Temple Grounds
+2002953: Main Hall
+2002954: Inner Sanctum
+2002955: Sunken Valley Cavern
+2002956: Bell Demon's Temple
+
+=Sunkey Valley=
+1702957: Under-Shrine Valley
+1702950: Sunkey Valley
+1702951: Gun Fort
+1702952: Riven Cave
+1702958: Bodhisattva Valley
+1702953: Guardian Ape's Watering Hole
+
+=Ashina Depths=
+1702955: Ashina Depths
+1702954: Poison Pool
+1702956: Guardian Ape's Burrow
+1502950: Hidden Forest
+1502951: Mibu Village
+1502952: Water Mill
+1502953: Wedding Cave Door
+
+=Fountainhead Palace=
+2502950: Fountainhead Palace
+2502951: Vermillion Bridge
+2502956: Mibu Manor
+2502952: Flover Viewing Stage
+2502953: Great Sakura
+2502954: Palace Grounds
+2502957: Feeding Grounds
+2502958: Near Pot Noble
+2502955: Sanctuary
+
+=Hirata Estate=
+1002950: Dragonsping - Hirata Estate
+1002951: Estate Path
+1002952: Bamboo Thicket Slope
+1002953: Hirata Estate - Main Hall
+1002955: Hirata Audience Chamber
+1002954: Hirata Estate - Hidden Temple
+</DropDownList>
+      <LastState Value="2002955" RealAddress="7FF49E7CE22C"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>143B49D10</Address>
+      <Offsets>
+        <Offset>B4C</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
